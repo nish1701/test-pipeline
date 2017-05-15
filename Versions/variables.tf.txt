@@ -1,0 +1,10 @@
+variable "aws_access_key" {AKIAIZRN7OD6757R6V4A}
+variable "secret_key" {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}
+variable "region" {
+	default = "us-east-1"
+}
+
+Access Key ID:
+AKIAJCRRX5FBRDJIOSOA
+Secret Access Key:
+oPcz5uFTCh+PZg2Ye/QxTuYWYfaCd4i48D+kIdo+
